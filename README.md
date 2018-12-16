@@ -1,5 +1,5 @@
 # Oil_Price_and_Consumption_Expenditure
-<a href="https://yipeichan.github.io"><b>Link for additional explanations</b></a>
+<a href="https://yipeichan.github.io"><b>Link to additional explanations</b></a>
 <br>
 <br>
 I wrote this R code script to manage and analyze multiple time series economic data in 2016. The result was summarized and provided in my bachelor's thesis. 
